@@ -34,7 +34,7 @@ Caso o protótipo navegável seja feito em um serviço web e esteja disponível 
 Atividades entregues até 3 dias após o prazo receberão até 70% da nota. O cálculo é feito automaticamente pelo sistema; o professor não tem controle sobre o percentual da nota atribuída.
 
 
-![image](https://user-images.githubusercontent.com/6618004/206936731-80af62af-4b31-4119-8a79-71fc71b21cb8.png)
+![image](https://user-images.githubusercontent.com/6618004/206936817-ed13e261-3b55-45d5-95e7-d43d750fdbc4.png)
 
 ![image](https://user-images.githubusercontent.com/6618004/206936756-852d482c-3320-4db5-9ddf-7fa7031b142a.png)
 
