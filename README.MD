@@ -32,3 +32,17 @@ Caso o protótipo navegável seja feito em um software gratuito, envie um arquiv
 Caso o protótipo navegável seja feito em um serviço web e esteja disponível para acesso, envie um arquivo contendo o link para acessar esse protótipo.
 
 Atividades entregues até 3 dias após o prazo receberão até 70% da nota. O cálculo é feito automaticamente pelo sistema; o professor não tem controle sobre o percentual da nota atribuída.
+
+
+![image](https://user-images.githubusercontent.com/6618004/206936731-80af62af-4b31-4119-8a79-71fc71b21cb8.png)
+
+![image](https://user-images.githubusercontent.com/6618004/206936756-852d482c-3320-4db5-9ddf-7fa7031b142a.png)
+
+![image](https://user-images.githubusercontent.com/6618004/206936772-f77406aa-8647-4db9-919a-da2bbbaeada6.png)
+
+![image](https://user-images.githubusercontent.com/6618004/206936781-ad4ab272-11a9-4c80-aec1-95f9cb9ac801.png)
+
+
+
+
+ 
