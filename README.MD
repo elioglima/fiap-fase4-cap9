@@ -9,11 +9,9 @@ ETAPAS DA ATIVIDADE
 
 4 – Envie para a avaliação o protótipo feito, já com as alterações que possam ser fruto do feedback coletado.
 
- 
 
 Lembre-se
  
-
 O protótipo não é o MVP. Ele não precisa ser funcional ou ter implementações, mas precisa ser navegável para que outras pessoas possam ter a sensação de utilizar seu serviço.
 
 O protótipo solicitado agora também não deve ser confundido com um wireframe ou apenas com prints de tela, ok? Caso tenha dúvidas, lembre-se de conversar com seus tutores.
@@ -32,6 +30,7 @@ Caso o protótipo navegável seja feito em um software gratuito, envie um arquiv
 Caso o protótipo navegável seja feito em um serviço web e esteja disponível para acesso, envie um arquivo contendo o link para acessar esse protótipo.
 
 Atividades entregues até 3 dias após o prazo receberão até 70% da nota. O cálculo é feito automaticamente pelo sistema; o professor não tem controle sobre o percentual da nota atribuída.
+
 
 
 ![image](https://user-images.githubusercontent.com/6618004/206936817-ed13e261-3b55-45d5-95e7-d43d750fdbc4.png)
